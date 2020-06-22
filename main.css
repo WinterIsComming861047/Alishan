@@ -1,0 +1,33 @@
+body {
+  //width: 600px;
+  margin: 0 auto;
+  //background-color: #B6D7BA;
+  padding: 0 20px 20px 20px;
+  //border: 5px solid black;
+}
+table{
+	//padding: 0px 20px 20px 20px;
+	//margin: 100 ;
+	//border: 5px solid black;
+}
+caption{
+	font-size:30px;
+	padding: 20px 0px 1px 0px;
+
+
+}
+table,th, td {
+  border: 1px solid black;
+}
+th{
+	font-size:24px;
+}
+td{
+	width:auto;
+}
+img{
+	border-radius: 8px;
+	//max-height: 750px;
+	width: 600px;
+	overflow:hidden;
+}
